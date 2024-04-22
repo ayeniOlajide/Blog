@@ -1,0 +1,15 @@
+[
+  {
+  "_id": "",
+  "firstName": "",
+  "lastName": "",
+  "username": "",
+  "email": "",
+  "password": "Password0!",
+  "articles": [
+    {
+      "_id": ""
+    }
+  ],
+  "__v": 0
+}]
